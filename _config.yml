@@ -1,0 +1,13 @@
+title: Adam Westbrook
+email: adam@adamwestbrook.co.uk
+description: >- # this means to ignore newlines until "baseurl:"
+  The home of video artist, journalist and filmmaker Adam Westbrook.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://adamwestbrook.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: AdamWestbrook
+github_username:  adamwestbrook
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed

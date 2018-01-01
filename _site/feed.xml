@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-28T15:04:50+00:00</updated><id>http://localhost:4000/</id><title type="html">Adam Westbrook</title><subtitle>The home of video artist, journalist and filmmaker Adam Westbrook.</subtitle><entry><title type="html">A second blog post</title><link href="http://localhost:4000/blog/1970/03/01/secondpost.html" rel="alternate" type="text/html" title="A second blog post" /><published>1970-03-01T00:00:00+01:00</published><updated>1970-03-01T00:00:00+01:00</updated><id>http://localhost:4000/blog/1970/03/01/secondpost</id><content type="html" xml:base="http://localhost:4000/blog/1970/03/01/secondpost.html">&lt;h1 id=&quot;heres-an-h1-header&quot;&gt;Here’s an h1 header&lt;/h1&gt;
+
+&lt;h2 id=&quot;this-is-a-summary-of-the-article-in-40-words-in-h2&quot;&gt;This is a summary of the article in 40 words in h2.&lt;/h2&gt;
+
+&lt;p&gt;OK, so another day. Today I’m thinking about pictures and the visual side of it. Some visual inspirations collected. I wonder if semiotics can help me here? Lets go over those notes again. So the signifier and the signified. Making the invisible visible, by showing its impact on something we can see. What is invisible here? Well I guess the tactics of AM turned into an actual playbook is a good start. Hmm no I’m not ready to go there yet, too much other stuff to consider at the moment. One of the things is the major plot points. I have a one pager sketched out that looks quite strong. But I’m having trouble identifying the plot points. What is the inciting incident? In a sense it’s the Putin reveal.&lt;/p&gt;
+
+&lt;p&gt;Very quickly &lt;a href=&quot;http://bbc.co.uk&quot;&gt;here’s a link to something&lt;/a&gt;. Just to see what that looks like.&lt;/p&gt;
+
+&lt;p&gt;And I should also quickly test what an image looks like. So here’s a quick test now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;image.png&quot; alt=&quot;image title&quot; title=&quot;here's a title&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s when the story gets interesting, or at least that’s the climax of Act 1. What question does that raise? How is that answered at the climax? I want to imagine a good climax, something visual and dramatic that’s been sowed in the whole way through. I have some really good moments thought out this story just nothing at the end. Is there a moment that could be moved to the end? No I don’t think so.  The good moment of the Art of War clip cut to Trump…well that could be repeated from an earlier episode? This time cut with the pictures? Of course that kind of does what the audience have already done if they’ve seen it already.&lt;/p&gt;
+
+&lt;h3 id=&quot;heres-an-h3-sub-header&quot;&gt;Here’s an H3 sub header&lt;/h3&gt;
+
+&lt;p&gt;Maybe if that scene is used to make the big point this is war they are trying to bring us down from the inside. The quote is revealing the big scary point: they are trying to bring down democracy. They are trying to destroy the country from the inside out in order to pick up the pieces themselves. This was the plan in 1983 and it’s the plan in 2017. Cut that with Trump and it doesn’t just say “their tactics are still being used today” It says: they are trying to destroy us from the inside - and it’s actually working.&lt;/p&gt;
+
+&lt;h3 id=&quot;and-heres-another-h3-header&quot;&gt;And here’s another H3 header&lt;/h3&gt;
+
+&lt;p&gt;That clip is powerful because it has double meaning. Maybe that’s the trick. With context you can have the clip played once to show what the Russian plan was back then.  By repeating it with modern pics you hammer its meaning and you make the big point: what’s at stake? Our survival.  Is that the change? We go from thinking that this isn’t that big a deal to realising the future of our civilisation is at stake? What does that do to the final episode? Maybe it starts with hope - we can create our own playbook to counter the Russians. But then somehow it turns to say actually, we can’t do anything if people believe it. To then saying their tactics are the same - and so is their motivation.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Here’s an unordered list point&lt;/li&gt;
+  &lt;li&gt;And here’s another one&lt;/li&gt;
+  &lt;li&gt;And here’s one more&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What’s this going to be like? To live the rest of our lives in a world of information where we don’t know what is true? Where fact and fiction are constantly muddled? How to convey that somehow? How to make the audience feel depressed about that? (Why do I always end up trying to making people feel depressed?! Must be because I’m still depressed. Probably some truth in that). Is there some kind of final reveal to pull off in the third act that has the audience saying “is this even real? Is Adam real? Can I trust anything I’ve just heard? Is that something I want to do or will it discredit the story?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Here’s an ordered list point&lt;/li&gt;
+  &lt;li&gt;And here’s another&lt;/li&gt;
+  &lt;li&gt;And here’s one more&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a block quote. That third episode is a place to put some interesting science in about how we are all vulnerable to information that is repeated. The wider picture.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;OF if that’s the climax, what’s the inciting incident? What’s the question if that is the answer?&lt;/p&gt;</content><author><name></name></author><summary type="html">Here’s an h1 header</summary></entry><entry><title type="html">Test blog post</title><link href="http://localhost:4000/blog/1970/01/01/blogpost.html" rel="alternate" type="text/html" title="Test blog post" /><published>1970-01-01T00:00:00+01:00</published><updated>1970-01-01T00:00:00+01:00</updated><id>http://localhost:4000/blog/1970/01/01/blogpost</id><content type="html" xml:base="http://localhost:4000/blog/1970/01/01/blogpost.html">&lt;h1 id=&quot;heres-an-h1-header&quot;&gt;Here’s an h1 header&lt;/h1&gt;
+
+&lt;h2 id=&quot;this-is-a-summary-of-the-article-in-40-words-in-h2&quot;&gt;This is a summary of the article in 40 words in h2.&lt;/h2&gt;
+
+&lt;p&gt;OK, so another day. Today I’m thinking about pictures and the visual side of it. Some visual inspirations collected. I wonder if semiotics can help me here? Lets go over those notes again. So the signifier and the signified. Making the invisible visible, by showing its impact on something we can see. What is invisible here? Well I guess the tactics of AM turned into an actual playbook is a good start. Hmm no I’m not ready to go there yet, too much other stuff to consider at the moment. One of the things is the major plot points. I have a one pager sketched out that looks quite strong. But I’m having trouble identifying the plot points. What is the inciting incident? In a sense it’s the Putin reveal.&lt;/p&gt;
+
+&lt;p&gt;Very quickly &lt;a href=&quot;http://bbc.co.uk&quot;&gt;here’s a link to something&lt;/a&gt;. Just to see what that looks like.&lt;/p&gt;
+
+&lt;p&gt;And I should also quickly test what an image looks like. So here’s a quick test now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;image.png&quot; alt=&quot;image title&quot; title=&quot;here's a title&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s when the story gets interesting, or at least that’s the climax of Act 1. What question does that raise? How is that answered at the climax? I want to imagine a good climax, something visual and dramatic that’s been sowed in the whole way through. I have some really good moments thought out this story just nothing at the end. Is there a moment that could be moved to the end? No I don’t think so.  The good moment of the Art of War clip cut to Trump…well that could be repeated from an earlier episode? This time cut with the pictures? Of course that kind of does what the audience have already done if they’ve seen it already.&lt;/p&gt;
+
+&lt;h3 id=&quot;heres-an-h3-sub-header&quot;&gt;Here’s an H3 sub header&lt;/h3&gt;
+
+&lt;p&gt;Maybe if that scene is used to make the big point this is war they are trying to bring us down from the inside. The quote is revealing the big scary point: they are trying to bring down democracy. They are trying to destroy the country from the inside out in order to pick up the pieces themselves. This was the plan in 1983 and it’s the plan in 2017. Cut that with Trump and it doesn’t just say “their tactics are still being used today” It says: they are trying to destroy us from the inside - and it’s actually working.&lt;/p&gt;
+
+&lt;h3 id=&quot;and-heres-another-h3-header&quot;&gt;And here’s another H3 header&lt;/h3&gt;
+
+&lt;p&gt;That clip is powerful because it has double meaning. Maybe that’s the trick. With context you can have the clip played once to show what the Russian plan was back then.  By repeating it with modern pics you hammer its meaning and you make the big point: what’s at stake? Our survival.  Is that the change? We go from thinking that this isn’t that big a deal to realising the future of our civilisation is at stake? What does that do to the final episode? Maybe it starts with hope - we can create our own playbook to counter the Russians. But then somehow it turns to say actually, we can’t do anything if people believe it. To then saying their tactics are the same - and so is their motivation.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Here’s an unordered list point&lt;/li&gt;
+  &lt;li&gt;And here’s another one&lt;/li&gt;
+  &lt;li&gt;And here’s one more&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What’s this going to be like? To live the rest of our lives in a world of information where we don’t know what is true? Where fact and fiction are constantly muddled? How to convey that somehow? How to make the audience feel depressed about that? (Why do I always end up trying to making people feel depressed?! Must be because I’m still depressed. Probably some truth in that). Is there some kind of final reveal to pull off in the third act that has the audience saying “is this even real? Is Adam real? Can I trust anything I’ve just heard? Is that something I want to do or will it discredit the story?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Here’s an ordered list point&lt;/li&gt;
+  &lt;li&gt;And here’s another&lt;/li&gt;
+  &lt;li&gt;And here’s one more&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a block quote. That third episode is a place to put some interesting science in about how we are all vulnerable to information that is repeated. The wider picture.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;OF if that’s the climax, what’s the inciting incident? What’s the question if that is the answer?&lt;/p&gt;</content><author><name></name></author><summary type="html">Here’s an h1 header</summary></entry></feed>
