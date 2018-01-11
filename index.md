@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Adam Westbrook - video artist
 ---
 
 # Hello, I'm Adam.
