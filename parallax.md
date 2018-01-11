@@ -5,6 +5,7 @@ permalink: /parallax/
 ---
 
 # Parallax
+## An experimental web series (2017)
 
 Nearly 40 years ago, Carl Sagan imagined an _Encyclopaedia Galactica_, a “vast repository of the knowledge of many worlds”. 
 

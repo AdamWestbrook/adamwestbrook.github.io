@@ -2,7 +2,7 @@
 layout: post
 title: "A second blog post"
 date: March 1970 
-categories: blog
+permalink: a-test-blogpost 
 ---
 
 
@@ -14,9 +14,9 @@ OK, so another day. Today I’m thinking about pictures and the visual side of i
 
 Very quickly [here's a link to something](http://bbc.co.uk). Just to see what that looks like. 
 
-And I should also quickly test what an image looks like. So here's a quick test now. 
+And I should also quickly test what an image looks like. So here's a quick test now. Blah 
 
-![image title](image.png "here's a title")
+![image title]({{ site.url }}/assets/image.png "here's a title")
 
 That’s when the story gets interesting, or at least that’s the climax of Act 1. What question does that raise? How is that answered at the climax? I want to imagine a good climax, something visual and dramatic that’s been sowed in the whole way through. I have some really good moments thought out this story just nothing at the end. Is there a moment that could be moved to the end? No I don’t think so.  The good moment of the Art of War clip cut to Trump…well that could be repeated from an earlier episode? This time cut with the pictures? Of course that kind of does what the audience have already done if they’ve seen it already.
 
