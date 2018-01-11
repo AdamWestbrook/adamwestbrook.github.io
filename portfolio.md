@@ -8,6 +8,7 @@ permalink: /portfolio/
 ### Web Series
 
 - [Parallax: discover an alien world](http://adamwestbrook.co.uk/parallax) (2017)
+- [The Long Game: creativity and success in the 21st century](https://www.youtube.com/playlist?list=PLctgPm-taRR-YjbpuKuFW9i0pfMiuir1u) (2014-2016)
 
 ### Video Essays
 
