@@ -3,8 +3,12 @@ html, body {width: 100%; height: 100%; display: block; font-size: 16px;}
 body {font-family: 'Neuton', serif; color: #666; background-color: #fff;}
 
 .container {width: 40%; margin: 2% 0 0 2%;}
-header {}
-footer {}
+header {margin: 2%;}
+footer {margin: 2%;}
+.box {height: 2rem; width: 2rem;}
+#blue1 {background-color: #303c52; float: left;}
+#blue2 {background-color: #1f5772;}
+#blue3 {background-color: #62a3b7; float: left;}
 
 .clear {clear: both;}
 img {width: 100%; height: auto;}
@@ -13,7 +17,7 @@ iframe {width: 100%; height: 100%; position: absolute;}
 h1 {font-family: 'Montserrat', sans-serif; text-transform: uppercase; font-size: 2.5rem; margin: 2rem 0; color: #1f5772;}
 h2 {font-family: 'Montserrat', sans-serif; text-transform: uppercase; font-size: 1.8rem; margin: 2rem 0; color: #1f5772;}
 h3 {font-family: 'Montserrat', sans-serif; text-transform: uppercase; font-size: 1.5rem; margin: 2rem 0;}
-h4 {font-family: 'Montserrat', sans-serif; text-transform: uppercase; font-size: 1rem; margin: 2rem 0;}
+h4 {}
 h5 {}
 h6 {font-family: 'Neuton', serif; font-size: 2rem; line-height: 3.2rem; color: #888; margin: 2rem 0;}
 p {font-family: 'Neuton', serif; font-size: 1.6rem; line-height: 2.5rem; margin: 1.5rem 0;}
@@ -29,6 +33,9 @@ figcaption {font-family: 'Montserrat', sans-serif; font-size: 1rem;}
 .video-gallery {width: 100%; display: block;}
 .video-container {position: relative; width: 100%; height: 0; padding-bottom: 56.25%; margin-bottom: 30px;}
 .video {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+
+.box {width: 30px; height: 30px; margin: 0;}
+#blue1 {background-color: #303c52;}
 
 @media all and (min-width: 1690px) {
     .container {width: 40%; margin: 2% 0 0 2%;}  
