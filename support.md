@@ -1,6 +1,6 @@
 ---
 layout: support
-title: Support my work
+title: Adam Westbrook - support
 permalink: /support/
 ---
 
