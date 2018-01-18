@@ -1,6 +1,6 @@
 ---
 layout: support
-title: Support
+title: Support my work
 permalink: /support/
 ---
 
