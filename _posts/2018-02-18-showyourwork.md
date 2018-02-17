@@ -16,7 +16,7 @@ My relationship with this is constantly changing. At first, I saw it as a necess
 
 Something I wish happened more was for people who *have* built a big audience, to pull others up with them. To use their platform to shine a light on those still in the dark.
 
-I don't have a big audience at all, but if I can, I want to use it do that. So earlier this month emailed my supporters [on Patreon](http://patreon.com/adamwestbrook) and readers on [newsletter](http://delve.us3.list-manage2.com/subscribe?u=fbdf243a58d8ca92a873f374a&id=48e919b1c4) and asked "[what are you working on right now?](https://www.patreon.com/posts/what-are-you-on-16813580)"
+I don't have a big audience at all, but if I can, I want to use it do that. So earlier this month I emailed my supporters [on Patreon](http://patreon.com/adamwestbrook) and readers on [newsletter](http://delve.us3.list-manage2.com/subscribe?u=fbdf243a58d8ca92a873f374a&id=48e919b1c4) and asked "[what are you working on right now?](https://www.patreon.com/posts/what-are-you-on-16813580)"
 
 I received dozens of replies and the diversity was incredible: books, comics, businesses, even a philosophical movement. 
 
