@@ -8,7 +8,7 @@ date: 2018-02-18
 ## I asked my audience "what are you working on right now?"
 #### February 2018, London
 
-The theme of making art without an audience is something that [comes up often in my work](https://vimeo.com/151128399).
+**The theme of making art without an audience is something that [comes up often in my work](https://vimeo.com/151128399).**
 
 From da Vinci to Van Gogh, it is reassuring to learn that almost everyone 'painted in the dark' for at least part of their career.
 
@@ -256,4 +256,4 @@ And finally, Teresa Laing has wanted to create **music** for 30 years. Now, than
 
 She's published [her first song on Spotify](https://open.spotify.com/artist/61COpirwnELBxRZD3oZYBQ?si=zfU4Ja9tSi-KttJRxSgZJg).
 
-Thank you everyone! Let's do this again sometime, yeah?
+**Thank you everyone! Let's do this again sometime, yeah?**
