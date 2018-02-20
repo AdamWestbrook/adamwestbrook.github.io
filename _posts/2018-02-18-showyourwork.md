@@ -92,7 +92,7 @@ They don't say more than that except that writing it has been a great learning e
 
 •
 
-What Jess is doing is really interesting: she's challenging herself to complete a new *story* every week, which she publishes on her [slice of life fantasy web serial](https://ofleavesandwater.wordpress.com).
+What Jess is doing is really interesting: she's challenging herself to complete a new **story** every week, which she publishes on her [slice of life fantasy web serial](https://ofleavesandwater.wordpress.com).
 
 As I write there are five chapters completed and they're really enjoyable to read, especially if you're a fan of Japan. Jess is after anyone with a knowledge of the Japanese story structure Kishotenketsu. 
 
@@ -204,7 +204,7 @@ He's looking for help from a poster artist to create something to help him sell 
 
 Meanwhile, Harry Pigot is busy teaching kids in Nepal how to code and work with electronics.
 
-He's creating a **programme for kids from Himilayan villages** and, in a really cool touch, is publishing all of his teaching material online, for free.
+He's creating a **programme for kids from Himilayan villages** and, in a really cool touch, is [publishing all of his teaching material online](http://www.harrypigot.com/blog/), for free.
 
 He says "I hope my website will inspire others to start similar initiatives." I salute you, Harry.
 
