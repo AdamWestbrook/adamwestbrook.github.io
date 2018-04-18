@@ -1,5 +1,5 @@
 ---
-title: Success: a library (and a swimming pool)
+title: Success? A library (and a swimming pool)
 permalink: /words/what-does-success-look-like
 date: 2018-04-17
 ---
