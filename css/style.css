@@ -28,6 +28,17 @@ ul li, ol li {font-family: 'Neuton', serif; font-size: 1.5rem; line-height: 2rem
 blockquote {font-style: italic; margin-left: 5%;}
 figcaption {font-family: 'Montserrat', sans-serif; font-size: 1rem;}
 
+.blogpost {width: 50%; margin: 0 auto; margin-top: 30px; margin-bottom: 30px;}
+.blogpost-container {background-color: #eeeae8; padding: 5%; border-radius: 10px; border: 1px solid #62a3b7;}
+.blogpost h1 {font-family: 'Montserrat', sans-serif; text-transform: uppercase; font-style: italic; text-align: center; margin: 15px 0; color: #1f5772; font-size: 3rem;}
+.blogpost h2 {}
+.blogpost h3 {font-family: 'Montserrat', sans-serif; font-weight: 700; text-transform: uppercase; color: #1f5772; margin: 30px 0; text-align: center; font-size: 1.4rem;}
+.blogpost h6 {font-family: 'Montserrat', sans-serif; text-transform: uppercase; font-weight: 200; text-align: center; margin: 25px; font-size: 0.8rem;}
+.blogpost p {font-family: neuton; font-weight: 300; font-size: 1.4rem; line-height: 2.2rem; margin: 15px 0;}
+.blogpost ul li, ol li {}
+.blogpost blockquote {font-family: 'Neuton';  font-size: 1.6rem; margin: 45px;}
+.blogpost figcaption {font-family: 'Montserrat', sans-serif; font-size: 1rem; }
+
 #words ul li, #portfolio ul li {list-style-type: none;}
 
 .video-gallery {width: 100%; display: block;}
@@ -38,26 +49,41 @@ figcaption {font-family: 'Montserrat', sans-serif; font-size: 1rem;}
 #blue1 {background-color: #303c52;}
 
 @media all and (min-width: 1690px) {
+    html {font-size: 18px;}
     .container {width: 40%; margin: 2% 0 0 2%;}  
+    .blogpost {width: 50%;}
 }
 
 @media all and (max-width: 1280px) {
     html {font-size: 16px;}
     .container {width: 60%; margin: 2% 0 0 2%;}  
+    .blogpost {width: 60%;}
+}
+
+@media all and (max-width: 1024px) { 
+    html {font-size: 18px;}
+    .container {width: 80%; margin: 2% 0 0 2%;}
+    .blogpost {width: 90%;}
+    .blogpost-container {padding: 30px;}
 }
 
 @media all and (max-width: 980px) { 
     html {font-size: 16px;}
     .container {width: 80%; margin: 2% 0 0 2%;}
+    .blogpost {width: 99%;}
 }
 
 @media all and (max-width: 736px) { 
     html {font-size: 14px;}
     .container {width: 80%; margin: 0 auto;}
+    .blogpost {width: 100%;}
+    .blogpost p {line-height: 3rem;}
 }
 
 @media all and (max-width: 480px) { 
     html {font-size: 12px;}
     p {line-height: 3rem; margin: 1rem 0;}
     .container {width: 98%; margin: 0 auto;}
+    .blogpost {width: 100%;}
+    .blogpost p {line-height: rem;}
 }
