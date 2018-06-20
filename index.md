@@ -9,6 +9,6 @@ title: Adam Westbrook - video artist
 
 ###### Right now I'm directing a series for The New York Times.
 
-###### You can [get to know me](/biography), [see my body of work so far](/portfolio), [read some words I've written](/words), and [find out how to support me](/support).
+###### You can [get to know me](/biography), [see my body of work so far](/portfolio), and [find out how to support me](/support).
 
 ###### Or you can [email](mailto:adam@adamwestbrook.co.uk) me.
