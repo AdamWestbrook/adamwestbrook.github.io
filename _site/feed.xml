@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-25T11:03:47+01:00</updated><id>http://localhost:4000/</id><title type="html">Adam Westbrook</title><subtitle>The home of video artist Adam Westbrook.</subtitle><entry><title type="html">I’m blogging again!</title><link href="http://localhost:4000/2018/06/21/im-blogging-again.html" rel="alternate" type="text/html" title="I'm blogging again!" /><published>2018-06-21T00:00:00+01:00</published><updated>2018-06-21T00:00:00+01:00</updated><id>http://localhost:4000/2018/06/21/im-blogging-again</id><content type="html" xml:base="http://localhost:4000/2018/06/21/im-blogging-again.html">&lt;p&gt;Hello world!&lt;/p&gt;
+
+&lt;p&gt;So here is a test blog post about where I talk about why I have gotten back to blogging and how that all feels.&lt;/p&gt;
+
+&lt;p&gt;I’m going to upload it with a &lt;a href=&quot;http://adamwestbrook.co.uk&quot;&gt;link like this one&lt;/a&gt; which should link back to the home page.&lt;/p&gt;
+
+&lt;h3 id=&quot;but-what-about-images&quot;&gt;But what about images?&lt;/h3&gt;
+
+&lt;p&gt;Well, let’s take a look. To add an image in MD I have to do this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/image.png&quot; alt=&quot;Here's a picture&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ok cool!&lt;/p&gt;
+
+&lt;h3 id=&quot;but-what-about-an-unordered-list&quot;&gt;But what about an unordered list?&lt;/h3&gt;
+
+&lt;p&gt;Well, that should come out easily.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Just start with this&lt;/li&gt;
+  &lt;li&gt;then add this&lt;/li&gt;
+  &lt;li&gt;then you’re done!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;and-ordered-lists&quot;&gt;And ordered lists?&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Is a one&lt;/li&gt;
+  &lt;li&gt;Is a two&lt;/li&gt;
+  &lt;li&gt;Etc&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Right, let’s try this out.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Oh and let’s add a quick block quote here because that’s what Confucius said we should do” -&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">Hello world!</summary></entry></feed>

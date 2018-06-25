@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    
+    {% include head.html %}
+    
+    <body>
+    
+    {% include menu.html %}    
+        
+        
+        <article id="blog">
+        
+            <section class="blogpost">
+            
+                <h2><span>{{ page.title }}</span></h2>
+            
+            <h5>{{ page.date | date_to_long_string }}</h5>
+            
+        {{ content }}
+               
+            
+        </section>
+            
+        </article>
+        
+    
+        </body>
+    
+    </html>
