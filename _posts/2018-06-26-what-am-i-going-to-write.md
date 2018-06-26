@@ -1,6 +1,6 @@
 ---
 layout: single
-title: What am I going to write about today? On being creatively present. 
+title: What am I going to write about today? On being creatively present
 date: 2018-06-26
 ---
 
