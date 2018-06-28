@@ -1,6 +1,6 @@
 ---
 layout: single
-title: The artist as lobster: the first of many painful metaphors
+title: The artist as lobster (the first of many painful metaphors)
 date: 2018-06-28
 ---
 
@@ -28,7 +28,7 @@ This process is called Molting and is one of those evolutionary farces that have
 
 The lobster grows a new soft-shell beneath its old one and, when ready, spends a good half-an-hour on its side on the sea bed, squeezing itself out of its old shell. 
 
-Once free, the lobster's troubles really begin. Their new shell is not fully formed yet - and won't be hard for at least a couple of months. So its must spend that time secluded - either between rocks or inside the abandoned shells of other creatures.
+Once free, the lobster's troubles really begin. Their new shell is not fully formed yet - and won't be hard for at least a couple of months. So it must spend that time secluded - either between rocks or inside the abandoned shells of other creatures.
 
 ### Growing out of your shell
 
