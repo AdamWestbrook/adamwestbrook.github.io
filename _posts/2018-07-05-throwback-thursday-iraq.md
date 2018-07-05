@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Throwback Thursday #1 - One Week In Iraq
+title: Throwback Thursday No.1 - One Week In Iraq
 date: 2018-07-05
 ---
 
