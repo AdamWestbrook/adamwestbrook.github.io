@@ -18,4 +18,6 @@ New riffs, on familiar ideas.
 
 Take just three tracks from the *Solo* album which all offer something new, while incorporating music from the universe we recognise.
 
+<div class="iframe-container">
 <iframe src="https://open.spotify.com/embed/user/adamwestbrook/playlist/43MW25AbL90DEAW1eYDlR9" width="100%" height="auto" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  </div>
