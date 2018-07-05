@@ -24,7 +24,7 @@ My ambitious plan was to create a multimedia project called *One Week In Iraq*: 
 
 The site itself is long gone but the videos are still online.
 
-<iframe src="https://player.vimeo.com/video/4573713" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/4573713" width="1280" height="960" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 The main piece was this six minute video called *Blood and Treasure*.
 
