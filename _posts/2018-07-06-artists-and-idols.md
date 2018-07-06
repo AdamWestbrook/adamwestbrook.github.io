@@ -12,11 +12,11 @@ And also this one.
 
 ![Steal Like an Artist Journal - write a fan letter](/images/artist-idols2.jpg)
 
-In all honesty, I can't think of anyone who deserves the word *idol*.
+In all honesty, I can't think of anyone who deserves the word *hero*.
 
 There are people who I admire professionally and others who I am inspired by. 
 
-But idols? That's a strong word. It suggests an obsession over a person, elevating them to a place above the rest of us. 
+But heroes? That's a strong word. Like the word icon or idol, it suggests an obsession over a person, elevating them to a place above the rest of us. 
 
 ### The first problem with idols
 
