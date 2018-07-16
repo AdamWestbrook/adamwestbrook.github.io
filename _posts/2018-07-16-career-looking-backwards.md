@@ -4,7 +4,7 @@ title: Is your career something you can only see looking backwards?
 date: 2018-07-16
 ---
 
-![Is your career something you can only see looking backwards?](/images/career-looking-backwards.jpg)
+![Is your career something you can only see looking backwards?](/images/career-looking-back.jpg)
 
 Here's a new thought I've been mulling over the weekend.
 
