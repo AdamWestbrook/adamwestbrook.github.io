@@ -20,17 +20,13 @@ The paid gigs were few and far between.
 
 The only thing I had going for me was a [blog](http://adamwestbrook.wordpress.com) I was writing about the future of journalism. So with the new year, and it's plethora of predictions lists, approaching I decided it would be a good piece of #content. 
 
-**The story**
-
-To do a predictions list wasn't new but I don't remember anyone else doing it in video at the time. 
+**The story**: to do a predictions list wasn't new but I don't remember anyone else doing it in video at the time. 
 
 I had a tiny HD camera - the now defunct Kodak Zi8, which even had an input for an external microphone - and a white wall in my tiny bedroom. 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/8181085?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-**Looking back**
-
-Yes, I know: *that hair*. Well, all I can say is it hasn't improved that much since. 
+**Looking back**: yes, I know: *that hair*. Well, all I can say is it hasn't improved that much since. 
 
 As you can probably imagine, I cringe watching this. But this series wouldn't be much good if I only looked at the work I was proud of.
 
@@ -40,9 +36,7 @@ It's interesting to see the use of jump cuts in the editing, plus the use of a w
 
 One thing I don't like: I'm using copyrighted music, something I have made a point of never doing. All I'll say is, it was before the affordable music libraries became available. (But still, no excuse).
 
-**I did it again a year later**:
-
-I enjoyed making this video and it was popular on the blog, so a year later I did a rinse and repeat. 
+**I did it again a year later**: I enjoyed making this video and it was popular on the blog, so a year later I did a rinse and repeat. 
 
 This turns out to be super handy. Put these two side-by-side and you can see how I have improved and developed in the space of 12 months.
 
