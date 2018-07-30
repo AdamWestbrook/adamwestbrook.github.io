@@ -4,11 +4,11 @@ title: On congruency and alignment
 date: 2018-07-30
 ---
 
-Reading [Derek Sivers' update](https://sivers.org/now) on his current projects I found an interesting idea I hadn't considered.
+Reading [Derek Sivers' update](https://sivers.org/now) on his current projects I found an interesting idea I hadn't considered before.
 
 He writes this (emphasis mine):
 
->> Since May 1st, I’ve had almost no sugar, caffeine, dairy, alcohol, or wheat. It’s about being *congruent — making my actions in line with my beliefs*. These are all things I’d have, then regret, repeatedly. Old habits. Mild addictions. Un-necessary tools. Now I’m interrupting the short-term impulse and remembering the long-term gain.
+>> Since May 1st, I’ve had almost no sugar, caffeine, dairy, alcohol, or wheat. It’s about being **congruent — making my actions in line with my beliefs**. These are all things I’d have, then regret, repeatedly. Old habits. Mild addictions. Un-necessary tools. Now I’m interrupting the short-term impulse and remembering the long-term gain.
 
 And then he follows it up with this: 
 
