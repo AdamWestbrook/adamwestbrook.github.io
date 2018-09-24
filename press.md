@@ -22,4 +22,4 @@ I talk about creativity and storytelling on [Chris Oatley's ArtCast](https://chr
 
 I talk about how to make information interesting to Tina Remiz of [BAMM](https://bammglobal.com/conversation-adam-westbrook/) (2014)
 
-### If you'd like to interview me, or bring me along to speak an event, [drop me an email](mailto:adam@adamwestbrook.co.uk).
+### If you'd like to interview me, or bring me along to speak at your event, [drop me an email](mailto:adam@adamwestbrook.co.uk).
