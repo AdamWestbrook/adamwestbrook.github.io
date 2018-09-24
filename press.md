@@ -8,7 +8,7 @@ permalink: /press/
 
 Sometimes my work brings me a bit of publicity and the opportunity to talk to some really interesting people about art, storytelling and filmmaking. 
 
-Here's a selection of press from over the years.
+**Here's a selection of press from over the years**.
 
 I tell Nathalie from the [Mentorless Podcast](https://soundcloud.com/mentorless/adam-westbrook-and-the-art-of-storytelling-on-the-internet-mentorless-podcast-episode-1) about being creative when nobody's watching (2018)
 
