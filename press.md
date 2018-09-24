@@ -16,11 +16,15 @@ I'm featured in an article about how to make money from YouTube on the [official
 
 Popularity and quality are not the same thing! I explain my theory to [Alex Cespedes of the Project Book Podcast](https://alexcespedes.com/2017/04/adam-westbrook-quality-popularity/). (2017)
 
+My creative biography of Vincent Van Gogh is featured on [Kottke](https://kottke.org/16/02/paint-like-theres-nobody-watching-or-buying). (2016)
+
 I tell Ron Dawson of [Radio Film School](http://daredreamer.com/rfs-adamwestbrook/) my ideas about storytelling and how I make video essays (2016)
+
+My film about incompetence is featured on [Open Culture](http://www.openculture.com/2016/06/how-to-achieve-professional-happiness-through-creative-incompetence.html). (2016)
 
 I talk about creativity and storytelling on [Chris Oatley's ArtCast](https://chrisoatley.com/delve1/) (2014)
 
-My first video essays are featured [on Brainpickings](https://www.brainpickings.org/2014/05/23/the-long-game/).
+My first video essays are featured [on Brainpickings](https://www.brainpickings.org/2014/05/23/the-long-game/) and [Open Culture](http://www.openculture.com/2015/04/the-long-game-of-creativity.html). (2014)
 
 I talk about how to make information interesting to Tina Remiz of [BAMM](https://bammglobal.com/conversation-adam-westbrook/) (2014)
 
