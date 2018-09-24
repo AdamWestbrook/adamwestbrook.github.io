@@ -20,6 +20,8 @@ I tell Ron Dawson of [Radio Film School](http://daredreamer.com/rfs-adamwestbroo
 
 I talk about creativity and storytelling on [Chris Oatley's ArtCast](https://chrisoatley.com/delve1/) (2014)
 
+My first video essays are featured [on Brainpickings](https://www.brainpickings.org/2014/05/23/the-long-game/).
+
 I talk about how to make information interesting to Tina Remiz of [BAMM](https://bammglobal.com/conversation-adam-westbrook/) (2014)
 
 ### If you'd like to interview me, or bring me along to speak at your event, [drop me an email](mailto:adam@adamwestbrook.co.uk).
