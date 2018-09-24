@@ -9,7 +9,7 @@ pagination:
 
 I'm a video artist trying hard to be good at telling visual stories.
 
-I've just wrapped on directing a major new series for *The New York Times*, due for release in September 2018.
+I've just wrapped on directing a major new series for *The New York Times*, due for release in autumn/fall 2018.
 
 You can [get to know me](/story), [see my body of work so far](/portfolio) and [find out how to support me](/support).
 
