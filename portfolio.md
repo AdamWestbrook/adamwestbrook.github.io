@@ -8,10 +8,10 @@ permalink: /portfolio/
 ## Web Series
 
 - [Parallax: discover an alien world](http://adamwestbrook.co.uk/parallax) (2017)
-- [The Long Game: a series about creative success](https://www.youtube.com/watch?v=IV6tZEj4yY0&t=2s&index=2&list=PLctgPm-taRR-YjbpuKuFW9i0pfMiuir1u) (2013-2016)
 
 ## Video Essays
 
+- [If you're not scared about fascism in the U.S., you should be](https://www.nytimes.com/2018/10/15/opinion/fascists-leaders-america-trump.html) (with *The New York Times*, 2018)
 - [The Peter Principle](https://vimeo.com/163389806) (2016)
 - [The End of the Line](https://vimeo.com/157044515) (2016)
 - [The Long Game Part III: Painting in the Dark](https://vimeo.com/151128399) (2016)
