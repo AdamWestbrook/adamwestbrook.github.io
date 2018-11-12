@@ -21,12 +21,12 @@ I worked with actor, [Jennifer Munby](http://jennifermunby.com), to create a voi
 
 The series has an [original score](https://open.spotify.com/user/adamwestbrook/playlist/3uuSI1dlmO0XKjGRrfLjZl), composed by [Dale Nichols](http://dalenicholsmusic.com) that evokes the TV series Cosmos. 
 
-<div class="video-gallery">
-            
-    <div class="video-container"><iframe class="video" src="https://www.youtube.com/embed/42XcN52xEfU" frameborder="0"  allowfullscreen></iframe></div>
-    <div class="video-container"><iframe class="video" src="https://www.youtube.com/embed/_UaZpwe4zEU" frameborder="0" allowfullscreen></iframe></div>
-    <div class="video-container"><iframe class="video" src="https://www.youtube.com/embed/xIYcU6QQ1Lw" frameborder="0" allowfullscreen></iframe></div>
-    <div class="video-container"><iframe class="video" src="https://www.youtube.com/embed/QLfJERDtd-w" frameborder="0" allowfullscreen></iframe></div>
-    <div class="video-container"><iframe class="video" src="https://www.youtube.com/embed/AafLRXYcyi8" frameborder="0" allowfullscreen></iframe></div>
-    
-</div>
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/42XcN52xEfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/_UaZpwe4zEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/xIYcU6QQ1Lw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/QLfJERDtd-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/AafLRXYcyi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
