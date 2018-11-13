@@ -7,7 +7,7 @@ permalink: /portfolio/
 
 ## Web Series
 
-- [Operation Infektion: Fake News from the Cold War to Kanye](http://adamwestbrook.co.uk/operation-infektion) (*The New York Times*, 2018)
+- [Operation Infektion: Fake News from Cold War to Kanye](http://adamwestbrook.co.uk/operation-infektion) (*The New York Times*, 2018)
 - [Parallax: discover an alien world](http://adamwestbrook.co.uk/parallax) (2017)
 
 ## Video Essays
