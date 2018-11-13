@@ -12,7 +12,7 @@ permalink: /portfolio/
 
 ## Video Essays
 
-- [If You're Not Scared About Fascism In The U.S., You Should Be](https://www.nytimes.com/2018/10/15/opinion/fascists-leaders-america-trump.html) (with *The New York Times*, 2018)
+- [If You're Not Scared About Fascism In The U.S., You Should Be](https://www.nytimes.com/2018/10/15/opinion/fascists-leaders-america-trump.html) (*The New York Times*, 2018)
 - [The Peter Principle](https://vimeo.com/163389806) (2016)
 - [The End of the Line](https://vimeo.com/157044515) (2016)
 - [The Long Game Part III: Painting in the Dark](https://vimeo.com/151128399) (2016)
