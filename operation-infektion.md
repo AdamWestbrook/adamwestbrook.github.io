@@ -44,7 +44,3 @@ And above all, we wanted it to be fun! From the very beginning, the KGB's campai
 With NYT cinematographer Jonah Kessel, we shot interviews with our subjects during January-February 2018 and commissioned bespoke animations from motion house [Peprally](http://peprally.co) and artist [Tom McCarten](https://www.tommccarten.com/) as well as sound design from Love+Radio's  Nicholas Van Der Kolk.
 
 I created additional motion graphics as well as editing and narrating the series. 
-
-### Watch the trailer
-
-<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/xFQ2s9inJf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
