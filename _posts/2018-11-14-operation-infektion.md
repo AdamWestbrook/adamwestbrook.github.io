@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Operation Infektion: from Cold War to Kanye
+title: Operation Infektion - from Cold War to Kanye
 date: 2018-11-14
 ---
 
