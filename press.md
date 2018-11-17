@@ -10,7 +10,7 @@ Sometimes my work brings me a bit of publicity and the opportunity to talk to so
 
 **Here's a selection of press from over the years**.
 
-- My series *Operation Infektion* [is discussed on NPR's Fresh Air, with my co-director Adam Ellick talking more about Russian disinformation](https://www.npr.org/2018/11/15/668209008/inside-the-russian-disinformation-playbook-exploit-tension-sow-chaos) (2018)
+- My series *Operation Infektion* [is discussed on NPR's Fresh Air](https://www.npr.org/2018/11/15/668209008/inside-the-russian-disinformation-playbook-exploit-tension-sow-chaos), with my co-director Adam Ellick talking more about Russian disinformation (2018)
 
 - [A video I produced for *The New York Times*](https://www.nytimes.com/video/opinion/100000006154922/fascism-leaders-america-trump.html) inspired legendary American cartoonist Stan Mack to [create his own take](https://www.nytimes.com/2018/10/18/opinion/fascism.html) (2018)
 
