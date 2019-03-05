@@ -5,14 +5,18 @@ permalink: /portfolio/
 ---
 # Body of work
 
-## Web Series
+## With The New York Times
 
-- [Operation Infektion: Fake News from Cold War to Kanye](http://adamwestbrook.co.uk/operation-infektion) (*The New York Times*, 2018)
+- [Happy 15th Birthday, Facebook](https://www.youtube.com/watch?v=GDMYgzfLi5g) (2019)
+- [Operation Infektion: Fake News from the Cold War to Kanye](http://adamwestbrook.co.uk/operation-infektion) (2018)
+- [If you're not scared about fascism in the U.S., you should be](https://www.nytimes.com/2018/10/15/opinion/fascists-leaders-america-trump.html) (2018)
+
+## Fiction
+
 - [Parallax: discover an alien world](http://adamwestbrook.co.uk/parallax) (2017)
 
 ## Video Essays
 
-- [If You're Not Scared About Fascism In The U.S., You Should Be](https://www.nytimes.com/2018/10/15/opinion/fascists-leaders-america-trump.html) (*The New York Times*, 2018)
 - [The Peter Principle](https://vimeo.com/163389806) (2016)
 - [The End of the Line](https://vimeo.com/157044515) (2016)
 - [The Long Game Part III: Painting in the Dark](https://vimeo.com/151128399) (2016)
