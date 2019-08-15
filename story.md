@@ -14,7 +14,7 @@ A lot of my work involves taking complex ideas and constructing a narrative that
 
 I love experimenting with the potential of visual storytelling, whether by [telling a story backwards](https://vimeo.com/105681474), creating a [fictional narrator](/parallax) or pushing the boundaries of [metaphor and semiotics](https://vimeo.com/157044515).
 
-Between 2013-2016 I made [short video essays](/portfolio) which have been watched millions of times and named an official nominee in the 2015 Webby Awards.
+Between 2013-2016 I made [short video essays](/portfolio) which have been watched millions of times.
 
 In the past I've written, directed or edited films for *The New York Times*, *Shopify* and *HuffPost UK*.
 
