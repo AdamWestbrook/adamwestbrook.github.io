@@ -7,6 +7,7 @@ permalink: /films/
 
 ## With The New York Times
 
+- [Jaron Lanier Fixes The Internet](https://nytimes.com/datadignity) (2019)
 - [I Didn't Kill Anyone. Why Did I Just Serve 16 Years for Murder?](https://www.nytimes.com/video/opinion/100000006616407/felony-murder-rule-adnan-khan.html?playlistId=1194811622182) (2019)
 - [What it's like to be a teenager in Putin's Russia](https://www.nytimes.com/video/opinion/100000006566233/putin-russia-teenagers.html?playlistId=1194811622182) (2019)
 - [I Co-Founded Facebook. It's Time To Break It Up](https://www.nytimes.com/video/opinion/100000006480848/chris-hughes-facebook-zuckerberg.html) (2019)
