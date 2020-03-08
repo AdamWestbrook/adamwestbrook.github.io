@@ -7,6 +7,7 @@ permalink: /films/
 
 ## With The New York Times
 
+- [What I Learned From Scanning The Brains of Potential Terrorists](https://www.nytimes.com/2020/03/02/opinion/domestic-terrorism-jihadists.html) (2020)
 - [You Should Be Freaking Out About Privacy](https://www.nytimes.com/video/opinion/100000006794185/privacy-surveillance-video.html) (2019)
 - [How Ireland Faught the Anti-Vaxxers and Won](https://www.nytimes.com/video/opinion/100000006841148/medical-misinformation-vaccines.html) (2019)
 - [Jaron Lanier Fixes The Internet](https://nytimes.com/datadignity) (2019)
