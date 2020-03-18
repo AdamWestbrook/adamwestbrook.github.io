@@ -7,6 +7,8 @@ permalink: /films/
 
 ## With The New York Times
 
+- [A Definitive Account of Trump's Coronavirus Lies](https://www.nytimes.com/2020/03/18/opinion/trump-lies-about-coronavirus.html) (2020)
+- [People Around The World Are Panic Buying...Toilet Paper?](https://www.nytimes.com/video/opinion/100000007029344/why-toilet-paper-coronavirus.html?playlistId=video/opinion) (2020)
 - [What I Learned From Scanning The Brains of Potential Terrorists](https://www.nytimes.com/2020/03/02/opinion/domestic-terrorism-jihadists.html) (2020)
 - [You Should Be Freaking Out About Privacy](https://www.nytimes.com/video/opinion/100000006794185/privacy-surveillance-video.html) (2019)
 - [How Ireland Faught the Anti-Vaxxers and Won](https://www.nytimes.com/video/opinion/100000006841148/medical-misinformation-vaccines.html) (2019)
