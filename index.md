@@ -13,6 +13,4 @@ Among other things, I write and direct short factual films for *The New York Tim
 
 You can [get to know me](/story), [see my body of work so far](/films) and [find out how to support me](/support).
 
-Or you can [email](mailto:adam@adamwestbrook.co.uk) me.
-
 Oh, and I've just started [a new weekly newsletter](http://adamwestbrook.substack.com)!
