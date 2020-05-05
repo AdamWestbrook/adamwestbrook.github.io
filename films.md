@@ -7,6 +7,7 @@ permalink: /films/
 
 ## With The New York Times
 
+- [The Leader We Wish We All Had Right Now](https://www.nytimes.com/2020/05/05/opinion/coronavirus-ohio-amy-acton.html) (2020)
 - [Beware Politicians Who Declare "War" On Coronavirus](https://www.nytimes.com/2020/04/20/opinion/coronavirus-war-politicians.html) (2020)
 - [A Definitive Account of Trump's Coronavirus Lies](https://www.nytimes.com/2020/03/18/opinion/trump-lies-about-coronavirus.html) (2020)
 - [People Around The World Are Panic Buying...Toilet Paper?](https://www.nytimes.com/video/opinion/100000007029344/why-toilet-paper-coronavirus.html) (2020)
