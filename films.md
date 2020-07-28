@@ -7,6 +7,7 @@ permalink: /films/
 
 ## With The New York Times
 
+- ["I Feel So Sorry For The People": How America's Coronavirus Response Looks To Foreigners](https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html) (2020)
 - [The Leader We Wish We All Had Right Now](https://www.nytimes.com/2020/05/05/opinion/coronavirus-ohio-amy-acton.html) (2020)
 - [Beware Politicians Who Declare "War" On Coronavirus](https://www.nytimes.com/2020/04/20/opinion/coronavirus-war-politicians.html) (2020)
 - [A Definitive Account of Trump's Coronavirus Lies](https://www.nytimes.com/2020/03/18/opinion/trump-lies-about-coronavirus.html) (2020)
