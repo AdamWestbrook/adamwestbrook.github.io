@@ -7,6 +7,7 @@ permalink: /films/
 
 ## With The New York Times
 
+- [There's Still One Sport Where You Can't Protest Racism](https://www.nytimes.com/2020/09/07/opinion/gwen-berry-olympics-protest.html) (2020)
 - ["I Feel So Sorry For The People": How America's Coronavirus Response Looks To Foreigners](https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html) (2020)
 - [The Leader We Wish We All Had Right Now](https://www.nytimes.com/2020/05/05/opinion/coronavirus-ohio-amy-acton.html) (2020)
 - [Beware Politicians Who Declare "War" On Coronavirus](https://www.nytimes.com/2020/04/20/opinion/coronavirus-war-politicians.html) (2020)
