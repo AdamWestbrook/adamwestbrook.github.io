@@ -7,6 +7,8 @@ permalink: /films/
 
 ## With The New York Times
 
+- ["It's Like You Want to Stop People From Voting": How U.S. Elections Look From Abroad](https://www.nytimes.com/video/opinion/100000007423440/elections-foreign-voter-reaction.html) (2020)
+- [The Great American Covid Success*](https://www.nytimes.com/video/opinion/100000007352441/us-coronavirus-response-asia.html) (2020)
 - [There's Still One Sport Where You Can't Protest Racism](https://www.nytimes.com/2020/09/07/opinion/gwen-berry-olympics-protest.html) (2020)
 - ["I Feel So Sorry For The People": How America's Coronavirus Response Looks To Foreigners](https://www.nytimes.com/2020/07/27/opinion/covid-19-global-response.html) (2020)
 - [The Leader We Wish We All Had Right Now](https://www.nytimes.com/2020/05/05/opinion/coronavirus-ohio-amy-acton.html) (2020)
