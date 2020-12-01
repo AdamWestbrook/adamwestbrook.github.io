@@ -7,7 +7,7 @@ permalink: /films/
 
 ## Fiction
 
-- [Negroni With A Twist: a graphic short story](http://adamwestbrook.co.uk/parallax) (2020)
+- [Negroni With A Twist: a graphic short story](http://adamwestbrook.co.uk/negroni) (2020)
 - [Parallax: a documentary narrated by aliens](http://adamwestbrook.co.uk/parallax) (2017)
 
 ## With The New York Times
