@@ -1,12 +1,18 @@
 ---
 layout: page
-title: Adam Westbrook - films
+title: Adam Westbrook - Stories
 permalink: /films/
 ---
 # Body of work
 
+## Fiction
+
+- [Negroni With A Twist: a graphic short story](http://adamwestbrook.co.uk/parallax) (2020)
+- [Parallax: discover an alien world](http://adamwestbrook.co.uk/parallax) (2017)
+
 ## With The New York Times
 
+- [The Fauci Awards 2020!](https://www.nytimes.com/2020/11/25/opinion/fauci-public-health-awards.html) (2020)
 - ["It's Like You Want to Stop People From Voting": How U.S. Elections Look From Abroad](https://www.nytimes.com/video/opinion/100000007423440/elections-foreign-voter-reaction.html) (2020)
 - [The Great American Covid Success*](https://www.nytimes.com/video/opinion/100000007352441/us-coronavirus-response-asia.html) (2020)
 - [There's Still One Sport Where You Can't Protest Racism](https://www.nytimes.com/2020/09/07/opinion/gwen-berry-olympics-protest.html) (2020)
@@ -26,10 +32,6 @@ permalink: /films/
 - [Operation Infektion: Fake News from the Cold War to Kanye](http://adamwestbrook.co.uk/operation-infektion) (2018)
 _Nominated for two Emmy Awards and one ONA award_
 - [If You're Not Scared About Fascism In The U.S., You Should Be](https://www.nytimes.com/2018/10/15/opinion/fascists-leaders-america-trump.html) (2018)
-
-## Fiction
-
-- [Parallax: discover an alien world](http://adamwestbrook.co.uk/parallax) (2017)
 
 ## Video Essays
 
