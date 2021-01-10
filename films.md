@@ -12,6 +12,7 @@ permalink: /films/
 
 ## With The New York Times
 
+- [The Capitol Riot: Stop Pretending 'This Is Not Who We Are'](https://www.nytimes.com/2021/01/08/opinion/capitol-riot-america.html) (2021)
 - [The Fauci Awards 2020!](https://www.nytimes.com/2020/11/25/opinion/fauci-public-health-awards.html) (2020)
 - ["It's Like You Want to Stop People From Voting": How U.S. Elections Look From Abroad](https://www.nytimes.com/video/opinion/100000007423440/elections-foreign-voter-reaction.html) (2020)
 - [The Great American Covid Success*](https://www.nytimes.com/video/opinion/100000007352441/us-coronavirus-response-asia.html) (2020)
