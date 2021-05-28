@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Adam Westbrook - video artist
+title: Adam Westbrook - Artist
 pagination:
     enabled: true
 ---
 
 # Hello, I'm Adam.
 
-I'm an Emmy-nominated filmmaker in London, trying hard to be good at telling visual stories.
+I'm an artist, journalist and Emmy-nominated filmmaker. 
 
-Among other things, I write and direct short factual films for *The New York Times* including [Jaron Lanier Fixes The Internet](https://nytimes.com/datadignity) and [Operation Infektion](http://www.adamwestbrook.co.uk/operation-infektion/), a major three-part series about Russian disinformation, which was nominated for two Emmy Awards in 2019.
+Many of films have appeared in *The New York Times* including [The Fauci Awards!](https://www.nytimes.com/2020/11/25/opinion/fauci-public-health-awards.html), [Jaron Lanier Fixes The Internet](https://nytimes.com/datadignity) and [Operation Infektion](http://www.adamwestbrook.co.uk/operation-infektion/), a major three-part series, which was nominated for two Emmy Awards.
 
 You can [get to know me](/story), [see my body of work so far](/films) and [find out how to support me](/support).
 
-Oh, and I've just started [a new weekly newsletter](http://adamwestbrook.substack.com)!
+Oh, and I write [a newsletter](http://adamwestbrook.substack.com) about the creative life and telling visual stories.
