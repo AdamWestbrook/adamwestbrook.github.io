@@ -6,9 +6,9 @@ permalink: /story/
 
 # Biography
 
-I am an independent video artist, currently based in London.
+I am an artist, journalist and filmmaker currently based in London.
 
-I weave words and pictures together to make visual stories, sometimes just for fun and sometimes in collaboration with other people.
+I weave words and pictures together to tell visual stories, sometimes just for fun and sometimes in collaboration with other people.
 
 A lot of my work involves taking complex ideas and constructing a narrative that uses the principles of film form to tell a fascinating, emotional and visual story.
 
@@ -16,7 +16,7 @@ I love experimenting with the potential of visual storytelling, whether by [tell
 
 Between 2013-2016 I made [short video essays](/portfolio) which have been watched millions of times. In 2019 my work was nominated in two categories at News and Documentary Emmy Awards.
 
-In the past I've written, directed or edited films for *The New York Times*, *Shopify* and *HuffPost UK*.
+In the past I've written, directed and edited films for *The New York Times*, *Shopify* and *HuffPost UK*.
 
 
 
