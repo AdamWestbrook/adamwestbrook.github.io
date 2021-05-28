@@ -31,7 +31,8 @@ permalink: /films/
 - [I Co-Founded Facebook. It's Time To Break It Up](https://www.nytimes.com/video/opinion/100000006480848/chris-hughes-facebook-zuckerberg.html) (2019)
 - [I Will Not Stay Silent: Our Leaders Are Failing Human Rights](https://www.nytimes.com/video/opinion/100000006306143/un-human-rights-violations.html) (2019)
 - [Happy 15th Birthday, Facebook](https://www.youtube.com/watch?v=GDMYgzfLi5g) (2019)
-- [Operation Infektion: Fake News from the Cold War to Kanye](http://adamwestbrook.co.uk/operation-infektion) (2018) ##### Nominated For Two Emmy Awards
+- [Operation Infektion: Fake News from the Cold War to Kanye](http://adamwestbrook.co.uk/operation-infektion) (2018) 
+##### Nominated For Two Emmy Awards
 - [If You're Not Scared About Fascism In The U.S., You Should Be](https://www.nytimes.com/2018/10/15/opinion/fascists-leaders-america-trump.html) (2018)
 
 ## Video Essays
