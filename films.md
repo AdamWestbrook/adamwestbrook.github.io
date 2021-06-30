@@ -12,6 +12,7 @@ permalink: /films/
 
 ## With The New York Times
 
+- [Are You Dreading Returning To Normal? You're Not Alone](https://www.nytimes.com/2021/06/30/opinion/covid-reopening-anxiety.html) (2021)
 - [Why Do We Let Corporations Profit From Rape Videos?](https://www.nytimes.com/2021/04/16/opinion/sunday/companies-online-rape-videos.html) (2021)
 - [The Capitol Riot: Stop Pretending 'This Is Not Who We Are'](https://www.nytimes.com/2021/01/08/opinion/capitol-riot-america.html) (2021)
 - [The Fauci Awards 2020!](https://www.nytimes.com/2020/11/25/opinion/fauci-public-health-awards.html) (2020)
